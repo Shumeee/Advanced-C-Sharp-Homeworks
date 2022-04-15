@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Task_1.Helpers
+{
+    public static class LoginInformation
+    {
+        public const string USERNAME = "Username";
+        public const string PASSWORD = "Password";
+    }
+}
